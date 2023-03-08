@@ -6,3 +6,9 @@
 ## Como publicar a aplicação
 * Vercel (possobilita fazer o deploy de um site e acessar o mesmo)
 * https://vercel.com
+
+## Bibliotecas de Componentes
+* React mui
+  * https://mui.com/
+* ant react
+  * https://ant.design/docs/react/introduce
